@@ -1,0 +1,1613 @@
+[
+    {
+        "id": "2847046086",
+        "salary_min": 47692.05,
+        "contract_time": "full_time",
+        "created": "2022-01-27T10:37:50Z",
+        "title": "Front End Engineer",
+        "salary_is_predicted": "1",
+        "latitude": 51.620399,
+        "location": {
+            "display_name": "Swansea, Wales",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Wales",
+                "Swansea"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjg0NzA0NjA4NiIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.TREAGg1j39m0iai3EmjUxk8yOUDfa-GzqFiBHKa3tNM",
+        "salary_max": 47692.05,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2847046086?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=CE53A5952C2B9089296D85BC3662798169303B45",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Amazon"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "We are looking for an agile-minded Front End Engineer to create and maintain central features across our global website. We want someone who can work well in a heterogeneous environment of different languages and technologies, and can bring flexibility, speed and quality to our team. You should be a talented and experienced frontend developer with expertise in the web stack: HTML, CSS, JavaScript and ReactJS (or similar) You should have a solid background in the fundamentals of software develop…",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "longitude": -3.94663
+    },
+    {
+        "salary_is_predicted": "1",
+        "created": "2022-02-11T10:59:08Z",
+        "title": "Front End Engineer - role based in Swansea",
+        "description": "We are looking for an agile-minded Front End Engineer to create and maintain central features across our global website. We want someone who can work well in a heterogeneous environment of different languages and technologies, and can bring flexibility, speed and quality to our team. You should be a talented and experienced frontend developer with expertise in the web stack: HTML, CSS, JavaScript and ReactJS (or similar) You should have a solid background in the fundamentals of software develop…",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Amazon",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 54255.86,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2888719846?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=8E674BE63EDAFA5BC99984F052ED9A9F4438D5DE",
+        "salary_max": 54255.86,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjg4ODcxOTg0NiIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.Yf-n-nREIvzPgzm6EhWh4Pc3eW5NjCjOav4TGgCY870",
+        "id": "2888719846",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Wales",
+                "Cardiff County"
+            ],
+            "display_name": "Cardiff County, Wales"
+        }
+    },
+    {
+        "contract_time": "full_time",
+        "salary_min": 53768.15,
+        "title": "Front End Engineer - role based in Swansea",
+        "created": "2022-02-11T10:58:21Z",
+        "salary_is_predicted": "1",
+        "latitude": 51.455299,
+        "id": "2888719527",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Amazon",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -2.5919,
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "description": "We are looking for an agile-minded Front End Engineer to create and maintain central features across our global website. We want someone who can work well in a heterogeneous environment of different languages and technologies, and can bring flexibility, speed and quality to our team. You should be a talented and experienced frontend developer with expertise in the web stack: HTML, CSS, JavaScript and ReactJS (or similar) You should have a solid background in the fundamentals of software develop…",
+        "location": {
+            "display_name": "Bristol, South West England",
+            "area": [
+                "UK",
+                "South West England",
+                "Bristol"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 53768.15,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyODg4NzE5NTI3In0.HOh25r62C2E4N2w64mklzcQ8BFNJxGLhca_FAQsFyP4",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2888719527?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=4FF4426B5B1CF855D1D33E981D0A86046D76F8CD"
+    },
+    {
+        "created": "2022-02-24T10:13:23Z",
+        "title": "Front End Developer",
+        "latitude": 51.5439,
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 30000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Premier Group Recruitment Ltd"
+        },
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "description": "Remote Front End Developer Multiple UK based Opportunities Were partnering with a large, global fintech company who are significantly expanding their IT Development Teams across the next few months. The positions will be fully remote, able to work anywhere in the UK. You will be a Front End Developer with 4 or more years of experience, there are several positions open which are all the way up to Senior Front End Developer level. The Front End Developer will be joining a diverse team of Software…",
+        "longitude": -0.041842,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922509735?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=34780ADAC57B7D3198E2F9C3BDD853F7EC3C7F2F",
+        "location": {
+            "display_name": "South Hackney, East London",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "London",
+                "East London",
+                "South Hackney"
+            ]
+        },
+        "salary_max": 30000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTA5NzM1In0.rW8s36YdnHLHkj5T-hVZ2aZHGxHBkQaMSebwN9K-6u4",
+        "id": "2922509735"
+    },
+    {
+        "location": {
+            "display_name": "North Woolwich, East London",
+            "area": [
+                "UK",
+                "London",
+                "East London",
+                "North Woolwich"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "2922509751",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTA5NzUxIn0.J-QMs0_lbGrEo5-zhGsBFhE-pprH6NvqhVWJgZ8vJho",
+        "salary_max": 30000,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922509751?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=D210DFF0A785DC348C2B1920D2CAFC403B32250C",
+        "salary_min": 30000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Premier Group Recruitment Ltd"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Remote Front End Developer Multiple UK based Opportunities Were partnering with a large, global fintech company who are significantly expanding their IT Development Teams across the next few months. The positions will be fully remote, able to work anywhere in the UK. You will be a Front End Developer with 4 or more years of experience, there are several positions open which are all the way up to Senior Front End Developer level. The Front End Developer will be joining a diverse team of Software…",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "longitude": 0.062507,
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:13:23Z",
+        "salary_is_predicted": "0",
+        "latitude": 51.5009
+    },
+    {
+        "salary_is_predicted": "0",
+        "latitude": 53.5196,
+        "created": "2022-02-24T10:13:24Z",
+        "title": "Front End Developer",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "description": "Remote Front End Developer £70,000 Multiple UK based Opportunities Were partnering with a large, global fintech company who are significantly expanding their IT Development Teams across the next few months. The positions will be fully remote, able to work anywhere in the UK. You will be a Front End Developer with 4 or more years of experience, there are several positions open which are all the way up to Senior Front End Developer level. The Front End Developer will be joining a diverse team of …",
+        "longitude": -0.741408,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 30000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Premier Group Recruitment Ltd"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922509768?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=EDB225C85165772150680CFA63B7D4360C9EF8D0",
+        "salary_max": 30000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTA5NzY4In0.JmL2eZHrzybZ63kuaTX_TpFiO9RnwkHYFhTg2tY2Ayo",
+        "id": "2922509768",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "North Lincolnshire",
+                "Scunthorpe",
+                "West Butterwick",
+                "North Ewster"
+            ],
+            "display_name": "North Ewster, West Butterwick"
+        }
+    },
+    {
+        "created": "2022-02-24T10:12:41Z",
+        "title": "Front-End Engineer",
+        "salary_is_predicted": "0",
+        "latitude": 51.5439,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Oliver Bernard Ltd"
+        },
+        "salary_min": 45000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -0.041842,
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Software Engineer - Front-End Salary: £45,000-£70,000 Location: Fully Remote Front-End Engineer - would you like the opportunity to work for a company that specialises in digital products and experiences, combining research, analysis and insights with technology and creativity to solve business challenges? They are looking for a motivated, hands-on Front-end Engineer who will work closely with the creative team to develop complex, interactive and data-driven websites. As a Front-End Engineer, y…",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922499506?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=059A48B826FC91AD0A5A0AB5F462844407FAEC8A",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "London",
+                "East London",
+                "South Hackney"
+            ],
+            "display_name": "South Hackney, East London"
+        },
+        "id": "2922499506",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNDk5NTA2In0.0_d4QnhHa5BWuINxvbvc2n4gP0vsspNElALvv0tYzYc",
+        "salary_max": 45000
+    },
+    {
+        "id": "2928508421",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTI4NTA4NDIxIn0._EY6fW68ETWLwCvfm7bUs44negvu2YcmN7Xem_OG63E",
+        "salary_max": 45000,
+        "location": {
+            "display_name": "South Hackney, East London",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "London",
+                "East London",
+                "South Hackney"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2928508421?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=8C6AF4AEDD80C90D98C39D642888854EC509ABB6",
+        "longitude": -0.041842,
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Front end developer- £45k  1 day a week in the office A front end developer is being sought by a growing company that is currently looking to expand their internal IT team. As a Front end developer you will be join a small by experienced team, working with like minded professional. The organisation specialised within the utilities sector and due to new projects being one it has opened growth opportunities within the company as they looking revamp internal systems. The successful front end devel…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Mainstay IT"
+        },
+        "salary_min": 45000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 51.5439,
+        "salary_is_predicted": "0",
+        "created": "2022-02-26T12:09:12Z",
+        "title": "Front End Developer"
+    },
+    {
+        "title": "Front End Developer",
+        "created": "2022-03-02T06:13:05Z",
+        "latitude": 51.062901,
+        "salary_is_predicted": "0",
+        "company": {
+            "display_name": "Spectrum IT Recruitment  Ltd",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 35000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -1.3165,
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Front End Developer - HTML, CSS, JavaScript £35,000 - £45,000 per annum  bonus benefits Winchester - Hybrid working week with remote working options Front End Developer is required to join an exciting market leading organisation based in Winchester, Hampshire. The organisation is boasting a global client base and due to organic growth are looking to expand their existing Front End development team. The Front-End Developer will have a diverse role building landing pages and microsite using web t…",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2938922223?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=CFCDEA341F0732DA445C11A4DFC50EA75EC2419A",
+        "location": {
+            "display_name": "Winchester, Hampshire",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "Hampshire",
+                "Winchester"
+            ]
+        },
+        "id": "2938922223",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTM4OTIyMjIzIn0.yos7Vn-hghcmO5IIWyZi4BPACyEIpS_6CN7j0PUh8lM",
+        "salary_max": 35000
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Shortlist Recruitment",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 35000,
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "description": "Front End Developer Wrexham £40,000 ShortList Recruitment are looking for a Front End Developer to join a leading eCommerce team in Wrexham. They are looking for a passionate and dedicated developer responsible for delivering the best user experience for their customers. The successful candidate will work alongside the design team to bring exciting features to life, on our clients eCommerce websites. The responsibilities of the Front End Developer are: Implementing a range of web development pr…",
+        "longitude": -2.99167,
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:13:12Z",
+        "salary_is_predicted": "0",
+        "latitude": 53.046902,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Wales",
+                "Wrexham"
+            ],
+            "display_name": "Wrexham, Wales"
+        },
+        "salary_max": 35000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUwNzEyOSIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.e5s5fXyoID1A9sBjHEKXOW5l-Q6jLEge8GBbgXB5Dww",
+        "id": "2922507129",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922507129?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=E10ACFD2D70333D18976C32A95F141233A6D1283"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922500648?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=9A6C7ACA2DE5A2EE6EF182132DAECEA1BF4F5185",
+        "salary_max": 80000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTAwNjQ4In0.C71-6bYgSk-WlxlQFrQyTKqV5Z8_cdFsGW9nc30z6h8",
+        "id": "2922500648",
+        "location": {
+            "display_name": "Brighton, East Sussex",
+            "area": [
+                "UK",
+                "South East England",
+                "East Sussex",
+                "Brighton"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 50.8195,
+        "salary_is_predicted": "0",
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:12:46Z",
+        "description": "This Front End Developer position is with a well-established SaaS business who serve over 1000 organisations across the UK. Their product is used to take the friction out of an array of admin processes for all kinds of member-based organisations. As the Front End Developer, you will: Use React to build out and test new features for the core product Focus on delivering high quality, maintainable code Collaborate with wider teams to ensure parity between objectives The first few months of this Fr…",
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -0.13642,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Amber Resourcing",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 80000
+    },
+    {
+        "salary_is_predicted": "0",
+        "created": "2022-03-03T12:16:05Z",
+        "title": "Front End Developer",
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "A growing Software House is currently looking for several Front End developers, with React.js expertise to join their expanding development function. They have been leading the way in building innovative products used by thousands to solve real-world problems. They have created a global messaging system incorporating AI used but the top 30 banks in the world. With over 25,000 customers across 95 countries, they are continuously pushing the boundaries of technology as we know it to produce the b…",
+        "salary_min": 80000,
+        "company": {
+            "display_name": "Understanding Recruitment Ltd",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2942698082?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=62061A2549E08BC48E479CC5E7839FF75D7AC7F8",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTQyNjk4MDgyIn0.27dlflr-xFvBZxMGw3OIlS5Y_ws444JXmiyrW4xbf2E",
+        "id": "2942698082",
+        "salary_max": 80000,
+        "location": {
+            "area": [
+                "UK",
+                "London"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "London, UK"
+        }
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922503965?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=558D70561A87232F986127093819D5BE355D4A95",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUwMzk2NSIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.JSkHPtc_DCLJLup8K_e55ctiiJNO_BzVGAnDwAZC1tk",
+        "id": "2922503965",
+        "salary_max": 40000,
+        "location": {
+            "display_name": "South Hackney, East London",
+            "area": [
+                "UK",
+                "London",
+                "East London",
+                "South Hackney"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 51.5439,
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:13:00Z",
+        "description": "JAVASCRIPT | JQUERY | HTML | CSS | LESS | SASS | BOOTSTRAP | ANGULAR | REACT | PHOTOSHOP | AGILE | SITECORE HELIX | CMS | UMBRACO | EPISERVER | READING | BASINGSTOKE | NEWBURY | BRACKNELL | SLOUGH Front End Developer - £55K A reputable Website and Mobile App builder is looking for a Front-End Developer to plan and develop websites, applications and systems using JavaScript, jQuery and UI / UX designs in Reading paying up to £55k. Key aspects of the Front End Developer role: Design, develop and …",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "longitude": -0.041842,
+        "salary_min": 40000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Anonymous"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "description": "Front End Developer Location: London / 3 days per wk remote Salary: Circa 70K 80K  Benefits Front End Developer required by fast-growing, leading HealthTech Company This is a diverse, challenging Front End Developer role in a talented team where youll be responsible for a variety of high quality front end projects that make a real difference to healthcare providers and their patients Essential: At least 5yrs Development experience Experience in the latest versions of TypeScript & Angular HTML5,…",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 80000,
+        "company": {
+            "display_name": "VERTECH GROUP  LTD",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:13:36Z",
+        "salary_max": 80000,
+        "id": "2922512506",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTEyNTA2In0.TdbrDkGeFT8VdVlMoXvOR81TFmZArq6cKrgwwbhEnls",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "London",
+                "North West London"
+            ],
+            "display_name": "North West London, London"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922512506?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=26ECE629594B72B1FA1E65EC7A69DC3C20E9DD36"
+    },
+    {
+        "salary_is_predicted": "0",
+        "created": "2022-02-24T10:13:40Z",
+        "title": "Front End Developer",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "description": "Front End Developer Location: Milton Keynes/ 3 days per wk remote Salary: Circa 70K 80K  Benefits Front End Developer required by fast-growing, leading HealthTech Company This is a diverse, challenging Front End Developer role in a talented team where youll be responsible for a variety of high quality front end projects that make a real difference to healthcare providers and their patients Essential: At least 5yrs Development experience Experience in the latest versions of TypeScript & Angular …",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "VERTECH GROUP  LTD"
+        },
+        "salary_min": 80000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922513092?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=36BAF46121223FF8F09D707653A7862EA4D33EF9",
+        "id": "2922513092",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUxMzA5MiIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.xKPxaybY8pVUzUBfmOkiJnkNtsuPW5MWZmZvZe5obZg",
+        "salary_max": 80000,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "Buckinghamshire",
+                "Milton Keynes"
+            ],
+            "display_name": "Milton Keynes, Buckinghamshire"
+        }
+    },
+    {
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "description": "SENIOR FRONT END DEVELOPER OPPORTUNITY IN WATFORD - UP TO £55,000 - ONCE A WEEK IN THE OFFICE I'm currently recruiting a Senior Front-End Developer for a well-established business in Watford paying up to £50,000-£55,000. In this role youll be working on various web-based applications and implementing UI. You will help take ownership of all Front-End development and coach the team where necessary. This role will require minimum office working of once a week. Their offices are based in Watford. T…",
+        "salary_min": 50000,
+        "company": {
+            "display_name": "Premier Group Recruitment Ltd",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "title": "Front End Developer",
+        "created": "2022-02-27T08:01:15Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkzMDUxOTg0MiIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.eLfmSDwzyEKmJx1Omz80TQPte6MCDw73RwLdSeKI4GQ",
+        "id": "2930519842",
+        "salary_max": 50000,
+        "location": {
+            "display_name": "Watford, Hertfordshire",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Eastern England",
+                "Hertfordshire",
+                "Watford"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2930519842?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=01FE5EB5AE62416F5294E19615913943E0634CAB"
+    },
+    {
+        "location": {
+            "area": [
+                "UK",
+                "London",
+                "Central London",
+                "Bishopsgate"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Bishopsgate, Central London"
+        },
+        "salary_max": 85000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjk0MjE5MzczNyIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.uSX6BrX5aRft55HtHF4KK9rfSqtyH7f8KCLe7m0hy5A",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2942193737?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=B8F509658B10AD933FA576C623C2CAC73FF445C3",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Understanding Recruitment"
+        },
+        "description": "Front End Developers, want to work for one of the fastest-growing AI Tech companies in the UK? I'm currently recruiting a Front End Developer with react experience to join a VC backed startup currently experiencing exponential growth across the whole business. Their platform takes daily business communication streams and automates them using high-level AI/ML to improve company processes, inefficiencies and raise profit by building intelligent workflows. The Front End Developer will have a leadi…",
+        "longitude": -0.08184,
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "contract_type": "permanent",
+        "id": "2942193737",
+        "salary_min": 85000,
+        "title": "Front End Developer",
+        "created": "2022-03-03T08:42:53Z",
+        "latitude": 51.517061,
+        "salary_is_predicted": "0"
+    },
+    {
+        "salary_is_predicted": "0",
+        "latitude": 51.496876,
+        "created": "2022-02-24T10:13:18Z",
+        "title": "Front End Developer",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "longitude": -0.101359,
+        "description": "Front End Developer / JavaScript / React / GraphQL / Apollo / TypeScript / Location: London Salary: £45,000 - £55,000  Package Permanent Currently recruiting for an innovative tech for good business with big ambitions based in London who are looking to hire a Front-End Developer to join their expanding team. Looking for a candidate who is ideally familiar with areas like React, Cypress and GraphQL. Please apply for more information on the client and full JD. Any blogs / GitHub Links / StackOver…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Evermore Global Sourcing Ltd"
+        },
+        "salary_min": 45000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922508515?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=369848AA68AD8906FE501C46AD3986360A01568A",
+        "id": "2922508515",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUwODUxNSIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.WzNuKAbgObxhhOaQnKJdIcSJBbBtJJFsnumc8Ln3Cfw",
+        "salary_max": 45000,
+        "location": {
+            "display_name": "North Lambeth, South East London",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "London",
+                "South East London",
+                "North Lambeth"
+            ]
+        }
+    },
+    {
+        "salary_max": 80000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTE2NzczIn0.8D2ouoMhCb1D7decEDiM7nOGNU4HSGNNZ-sj7dBlFnA",
+        "id": "2922516773",
+        "location": {
+            "display_name": "South Hackney, East London",
+            "area": [
+                "UK",
+                "London",
+                "East London",
+                "South Hackney"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922516773?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=4718C0ADB01C17C27C3A5C7C55528D0EC364F845",
+        "longitude": -0.041842,
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "This Front End Developer position is with a startup whose product/platform makes light work of millions of data points from legacy systems, tidies them up, and displays them in a digestable and beautiful way. The platform also allows enterprise-level digital transformation by removing inter-app friction that previously stopped integrations occurring. Some general expectations for the Front End Developer are: building greenfield React apps and features mentoring other members of the team helping…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 80000,
+        "company": {
+            "display_name": "Amber Resourcing",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "latitude": 51.5439,
+        "salary_is_predicted": "0",
+        "created": "2022-02-24T10:14:02Z",
+        "title": "Front End Developer"
+    },
+    {
+        "location": {
+            "display_name": "Bristol, South West England",
+            "area": [
+                "UK",
+                "South West England",
+                "Bristol"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 60000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjQ5OTMzMSIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0._Nnye3Xk_cK2fLsei_A12m_YZBRXgEwUfYMRfCs7Bj4",
+        "id": "2922499331",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922499331?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=88053F980E623052A6839F945A5AD4DFB52D5B66",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 60000,
+        "company": {
+            "display_name": "Pulse Engineering Solutions Ltd",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -2.5919,
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "description": "A leading defence company are currently recruiting for a Front-End Developer, as part of an ongoing recruitment drive in their mission systems business unit which is at the forefront of the defence digital era. A Front-End Developer is required to drive research and development activities and to realise innovation project and prototypes across multiple domains. This role will work across a wide range of communication and integration themed innovation projects ranging from embedded prototypes to…",
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:12:39Z",
+        "latitude": 51.455299,
+        "salary_is_predicted": "0"
+    },
+    {
+        "salary_max": 40000,
+        "id": "2942698286",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjk0MjY5ODI4NiIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.RG1fuKf8s_CyFwVU_oNNj58vRvg1laJVcsGE1Xh_RoE",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "North West England",
+                "Greater Manchester",
+                "Manchester",
+                "Collyhurst"
+            ],
+            "display_name": "Collyhurst, Manchester"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2942698286?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=ADF3F0CE318C820B8AEB5BB541BB9D4502150656",
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Here at N Brown, were looking for an enthusiasticFront End Developerto join our development team. Youll be tackling a wide range of projects within the N Brown e-commerce platform. Working on a multi brand level. As a Front End Developer, you will: Participate in the technical design of your required deliverables, in addition to contributing to the end solution with your own ideas. Own, enhance and maintain our front-end platform. Collaborate with other front-end developers and back-end system …",
+        "longitude": -2.232329,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "N Brown Group"
+        },
+        "salary_min": 40000,
+        "latitude": 53.483266,
+        "salary_is_predicted": "0",
+        "title": "Front End Developer",
+        "created": "2022-03-03T12:16:06Z"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922498627?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=2945E2F51272728C2D2078091A3F7F2E93FE76AA",
+        "id": "2922498627",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjQ5ODYyNyIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.DvIr4nGH0VZKkcX3duHUZ2TW2LU9tJNqwF26DZrWeQU",
+        "salary_max": 55000,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "London"
+            ],
+            "display_name": "London, UK"
+        },
+        "salary_is_predicted": "0",
+        "created": "2022-02-24T10:12:35Z",
+        "title": "Front End Developer",
+        "description": "This Front End Developer position is with an award-winning digital agency who have global clients in a variety of sectors including charities, electronic goods, education, hospitality, and finance. The company is well-established and have a dev team of around 15 who collaborate in x-functional teams to deliver the best possible digital experiences to new and existing clients. As the Front End Developer you'll be using: JavaScript HTML5 CSS JQuery React React experience isn't essential for this …",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "salary_min": 55000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Amber Resourcing"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922510633?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=8137DBE95A9C0FE2E5A1D0B7104BAECDB34DCEF8",
+        "salary_max": 25000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUxMDYzMyIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.EBdOs-GV77fUuHZm2CU8ib8TzSIxwNSjlS3EXwTlCYU",
+        "id": "2922510633",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "North West England",
+                "Lancashire",
+                "Burnley",
+                "Padiham"
+            ],
+            "display_name": "Padiham, Burnley"
+        },
+        "latitude": 53.800759,
+        "salary_is_predicted": "0",
+        "created": "2022-02-24T10:13:27Z",
+        "title": "Front End Developer",
+        "longitude": -2.313974,
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "description": "Front End Developer Lancashire / Part remote £25,000 - £35,000 A leading digital agency, have a fantastic opportunity for a Junior or Mid-Level Front-end Web Developer to join their team, based in Lancashire on a part remote basis (1-2 days in the office per week). They design and build web and social content such as, campaign assets, motion graphics, web apps and games for brands looking to maximise digital content with a range of exciting clients. The successful Front-end Web Developer will b…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Premier Group Recruitment Ltd"
+        },
+        "salary_min": 25000
+    },
+    {
+        "salary_min": 50000,
+        "company": {
+            "display_name": "83zero Limited",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "description": "Front End Developer £50-95k UK Wide - Work from any UK office location (12 Offices) The Job on Offer This DV Cleared Front End Developer role puts software engineering and professionalism at the heart of delivery. As part of the Web Platforms Team in our client's Digital Customer Experience unit, you'll help them produce web platforms for a range of enterprise clients. All your close colleagues will be first and foremost engineers - technical experts who love using Open Source to create complex…",
+        "longitude": -0.041842,
+        "created": "2022-02-25T06:06:14Z",
+        "title": "Front End Developer",
+        "salary_is_predicted": "0",
+        "latitude": 51.5439,
+        "location": {
+            "area": [
+                "UK",
+                "London",
+                "East London",
+                "South Hackney"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "South Hackney, East London"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyNTI3MzY4MiIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.auhQnO502VBMzPoJyyu6QWZOYanLJBpg8pzC2R9Nmn4",
+        "id": "2925273682",
+        "salary_max": 50000,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2925273682?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=D1A0D4EF50ADA4FE52D8EA55C608D288134F67A2"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922504501?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=03764F629734D2F685442A84781F631D99FD7E3F",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South West England",
+                "Bristol"
+            ],
+            "display_name": "Bristol, South West England"
+        },
+        "id": "2922504501",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTA0NTAxIn0.Eq-_ghH3QCecEs0xEsjL3VUUMq9QDE_aNLuY0-KtJCI",
+        "salary_max": 60000,
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:13:02Z",
+        "salary_is_predicted": "0",
+        "latitude": 51.455299,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Your Talent Solutions Ltd"
+        },
+        "salary_min": 60000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Front End Developer Bristol, UK £50,000 - £60,000 per annum depending on experience About the Company Our client is a Bristol based start-up building a team of talented people who share their exciting dream of making reading addictive. They want to inspire a generation to fall in love with reading, and experience phone interactions as positive, mentally nourishing engagement. This is a fantastic opportunity to get in early to an exciting company with huge growth potential. About the Role If you…",
+        "longitude": -2.5919
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2925273281?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=B71905968DAE19955175E0B50579502A33460580",
+        "location": {
+            "display_name": "Solihull, West Midlands",
+            "area": [
+                "UK",
+                "West Midlands",
+                "Solihull"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyNTI3MzI4MSIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.gx-niEgHL0HNpBVmQCSVL88LyxAlQpaY4pGQWhpOy8U",
+        "id": "2925273281",
+        "salary_max": 40000,
+        "title": "Front End Developer",
+        "created": "2022-02-25T06:06:08Z",
+        "salary_is_predicted": "0",
+        "latitude": 52.4147,
+        "salary_min": 40000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "In Technology Group Limited"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -1.7743,
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Front End Developer - Remote/Solihull - GBP 40,000-45,000 DOE I am currently working with a software company based in Solihull. My client is looking for a talented and ambitious Front End Developer to join their dynamic IT team. This role would be mainly remote, however, you would be required to come into the Solihull-based office twice a month . The successful candidate will have a t least two years of experience using JavaScript and React. This is an amazing opportunity to grow and develop wi…"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "360 Resourcing",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 50000,
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "longitude": -2.634223,
+        "description": "Front End Developer - £35,000-£50,000BenefitsHybrid Working Over the past ten years, Talos360 has firmly established itself as a market leader in talent software solutions and online recruitment media with our innovations in the HR software space, Talos ATS & Talos Engage solving todays talent challenges. We support over 600 companies UK wide and are growing quickly. We are a SaaS technology business, with massive growth plans and investment. We need someone who is passionate, problem-solving w…",
+        "title": "Front End Developer",
+        "created": "2022-02-25T06:06:28Z",
+        "latitude": 53.411203,
+        "salary_is_predicted": "0",
+        "location": {
+            "display_name": "Westbrook, Warrington",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "North West England",
+                "Cheshire",
+                "Warrington",
+                "Westbrook"
+            ]
+        },
+        "salary_max": 50000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTI1Mjc0NjMwIn0.6g6SUgGn2xkb-MK9Prc6Osnst-Ph5Csox6EFQpD2uX4",
+        "id": "2925274630",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2925274630?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=500F37250E5DFDF38868FFED7130C37FD96995A7"
+    },
+    {
+        "salary_min": 80000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Understanding Recruitment Ltd"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -0.08184,
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "description": "I'm currently looking to recruit a Front End Developer to join a global innovator of digital banking solutions, who provide middleware for global corporates, banks, insurers and marketplaces to SMEs and FinTechs. Their platform offers innovative payment solutions enabling Banking as a Service for e-ledgers, virtual & plastic card programmes, and e-wallets. As the Front End Developer, you will be working on white-label solutions or high-level APIs leading the development of specific features and…",
+        "created": "2022-03-03T12:15:54Z",
+        "title": "Front End Developer",
+        "salary_is_predicted": "0",
+        "latitude": 51.517061,
+        "location": {
+            "display_name": "Bishopsgate, Central London",
+            "area": [
+                "UK",
+                "London",
+                "Central London",
+                "Bishopsgate"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjk0MjY5NzIzMyIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.L6Z4veG2JM7eEdVAaa_n9__k6nDbSQFT51-Chk8vej8",
+        "id": "2942697233",
+        "salary_max": 80000,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2942697233?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=E1FA6381350D67422558637B305193284DEE87E8"
+    },
+    {
+        "salary_min": 70000,
+        "company": {
+            "display_name": "Cathcart Associates",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "longitude": -3.327942,
+        "description": "A well-established tech company is looking for an experience Front End Developer to join their team. The company have been going for 20 years (they're really stable but still have a startup kind of feel and continue to innovate). They work with an impressive range of customers - real household names - and their products deliver real value. They've very recently just signed up their first multi-national client which is a really big deal for them. It means that they'll be able to start growing th…",
+        "created": "2022-02-24T10:12:44Z",
+        "title": "Front End Developer",
+        "latitude": 55.943116,
+        "salary_is_predicted": "0",
+        "location": {
+            "display_name": "Edinburgh, Scotland",
+            "area": [
+                "UK",
+                "Scotland",
+                "Edinburgh"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "2922500097",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUwMDA5NyIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.WJ4klHy20Fz3NG_cm5iWMC93FJVRFceg6Jfa3O6x0cI",
+        "salary_max": 70000,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922500097?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=F7C8F575E91894C5DB45FA7FEECD2BA8D2FAB936"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922501334?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=8A998E1C03E65268D37A9B8521AFBEE8577B09F2",
+        "location": {
+            "area": [
+                "UK",
+                "North West England",
+                "Cheshire",
+                "Warrington",
+                "Westbrook"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Westbrook, Warrington"
+        },
+        "salary_max": 50000,
+        "id": "2922501334",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUwMTMzNCIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.c7q4p-vN321eQQ23kV24_yFNPzvGsJDlY6YFfFQijgY",
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:12:50Z",
+        "salary_is_predicted": "0",
+        "latitude": 53.411203,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Talos360"
+        },
+        "salary_min": 50000,
+        "longitude": -2.634223,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "description": "We are a high growth tech business with massive growth plans and investment. We need a passionate, problem-solving web developer excited by technology and innovation who is not afraid to wander off the beaten track searching for novel ideas. Do you want to be a part of solving challenging problems? . All our roles are hybrid you so you have an excellent work-life balance. Here at Talos360 we are adding to our top development team by bringing on an experienced Front End Developer to help take ou…"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922514810?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=B6C2691D668BC4BAD34D0758627986639B68CF87",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTE0ODEwIn0.PIzNTNENnlOmZ53sUS-dfaU-TGPF9kwJegfGmKH7_mE",
+        "id": "2922514810",
+        "salary_max": 45000,
+        "location": {
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "West Yorkshire",
+                "Leeds"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Leeds, West Yorkshire"
+        },
+        "salary_is_predicted": "0",
+        "latitude": 53.799599,
+        "title": "Front-End Developer",
+        "created": "2022-02-24T10:13:52Z",
+        "description": "Front-End Developer Leeds/Hybrid Up to £45k  Flexible working and Excellent Benefits This multi-national digital company are looking to add a Front-End Developer to their Software delivery team. My client is operating a hybrid working model, with 3 days per week being home-based and the other two days in their office. The Frontend Developer will have extensive experience in the developing both web and mobile applications. You will be responsible for the hands-on development of all Front-End UI …",
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "longitude": -1.54912,
+        "salary_min": 45000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Erin Associates"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "title": "Front End Developer",
+        "created": "2022-03-03T12:16:05Z",
+        "salary_is_predicted": "0",
+        "latitude": 51.517061,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Understanding Recruitment Ltd",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 60000,
+        "longitude": -0.08184,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "description": "An exceptional start-up based in the heart of Central London is currently looking to hire a Front End Developer with React.js experience to join their impressive engineering team. They're at the forefront of innovating the motor finance sector and have built an automotive purchasing platform incorporating Big Data, Machine Learning and loan finance technology. They have recently been voted in the UK's top 20 best companies to work for a second year running and have aspirations to go from the UK…",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2942698084?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=A5F1E287452C71DFCA5D2FD08BCF11E901C91AC9",
+        "location": {
+            "area": [
+                "UK",
+                "London",
+                "Central London",
+                "Bishopsgate"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Bishopsgate, Central London"
+        },
+        "salary_max": 60000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTQyNjk4MDg0In0.Bb6grldak3Pb5sizpsqE5GerI9PafccFK7vDi9DIXT8",
+        "id": "2942698084"
+    },
+    {
+        "description": "Our client are a consultancy working on a project in the public sector, they are looking for a Front End Developer to come in on a contract basis. Key Skills: -React -Front end Tech such as LESS/SASS -HTML, CSS, JavaScript Contract is running for 6-12 months but project more than likely to run for a few years. Fully remote, paying up to £450pd (Inside IR35 so engaged via Umbrella)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Revolution Technology Limited"
+        },
+        "salary_min": 65309.61,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:14:08Z",
+        "id": "2922518199",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTE4MTk5In0.mbcs5ZOrATPoTwSM7URYP_zkzVP1mCxkgB4-VXQtiq4",
+        "salary_max": 65309.61,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "London"
+            ],
+            "display_name": "London, UK"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922518199?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=674AE52FC7C2F30136C943D91C13FC2D1AE8C0A2"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922518985?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=0EB1C1964A6F396ABF9E87155A19954E9882C873",
+        "location": {
+            "display_name": "Guildford, Surrey",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "Surrey",
+                "Guildford"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTE4OTg1In0.xaGZYTOksqx7qUb45jM4M_Cy7wqc6OEI8mh-vAUQFss",
+        "id": "2922518985",
+        "salary_max": 130446,
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:14:11Z",
+        "salary_is_predicted": "0",
+        "salary_min": 130446,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "JAM Recruitment Ltd"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Do you want to work at the forefront of Technology and Software? Are you interested in supporting solutions in Cyber Security? If so, the following role may be right for you… We are looking for a Front End Developer to join the existing team in Guildford on a contract basis to work supporting Government and Customers in defending themselves against cyber-crime, reduce their risk in the connected world, comply with regulation, and transform their operations. This position involves using the late…"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2928508742?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=2672395EF927F50E2D596011750A6984CCF220D0",
+        "salary_max": 30000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTI4NTA4NzQyIn0.z5hcI-LkrMO-PC_uDbHjfIdcDJFd8saxfUjRLSgd2aM",
+        "id": "2928508742",
+        "location": {
+            "area": [
+                "UK",
+                "Eastern England",
+                "Essex",
+                "Basildon"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Basildon, Essex"
+        },
+        "salary_is_predicted": "0",
+        "title": "Front End Developer",
+        "created": "2022-02-26T12:09:14Z",
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "description": "Front End Developer Up to £45,000 | Basildon (flexible working) (HTML/CSS/JavaScript/React) This role is with a growing E-Commerce tech business, who seek a Front End Developer to form part of a team to create high-quality Ecommerce Web applications. The business have a modern digital mindset, and aim for their software applications to give their customers the best online experience on the market. Their ambition for the Front End Developer is to help them progress through the business and push …",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Premier Group Recruitment Ltd"
+        },
+        "salary_min": 30000
+    },
+    {
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "longitude": -1.09116,
+        "description": "Role: Front End Developer Location: Portsmouth Salary: £60k A leading a Business services company is looking for a front end developer to join their team. This is a great opportunity to join a growing team and organisation. Key Skills: Experience using JavaScript Frameworks Expert CSS skills Experience using Cypress.io for Automation tests Excellent communication skills If this role sounds of interest do not hesitate to submit you CV",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Sanderson Recruitment",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 60000,
+        "salary_is_predicted": "0",
+        "latitude": 50.798901,
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:13:00Z",
+        "salary_max": 60000,
+        "id": "2922503981",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUwMzk4MSIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.Nlt37jseXO7SIZbi-KM7PChnLgEIfh8cISqUPcAKly8",
+        "location": {
+            "area": [
+                "UK",
+                "South East England",
+                "Hampshire",
+                "Portsmouth"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Portsmouth, Hampshire"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922503981?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=3886ABAA38B5752A00971DFACAC7FB5F3F519FFE"
+    },
+    {
+        "id": "2922499227",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjQ5OTIyNyIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.T8-47manGSsWuFhXfhN23aFkOQFK6xwe4Vg601c4IR8",
+        "salary_max": 40000,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "Berkshire",
+                "Bracknell"
+            ],
+            "display_name": "Bracknell, Berkshire"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922499227?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=C89D2D53CC1E56A39C6DBB8059ECCB499E560351",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "longitude": -0.746479,
+        "description": "Front end developer developer javascript typescript\"Front end developer\" developer javascript typescript \"Front end developer\" developer javascript typescript\"Front end developer\" developer javascript typescript \"Front end developer\" developer javascript typescript Front End Developers for a major UK cloud solutions provider £40k to £75k plus benefits Bracknell (flex for some home working) Main purpose of the role Frontend Developers work in highly motivated teams, committed to delivering valua…",
+        "salary_min": 40000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "People Com Ltd"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "latitude": 51.417,
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:12:39Z"
+    },
+    {
+        "salary_is_predicted": "0",
+        "created": "2022-02-24T10:12:49Z",
+        "title": "Front End Developer",
+        "description": "Front End Developer Remote – Offices based in various UK locations Salary up to £50k Forward Role have partnered with an award winning digital agency, who are looking for additional front end developers to join a growing team. You will be using tech such as JavaScript, HTML and CSS, with the opportunity to develop your experience with React and Node.js too. This is an exciting time to join them whilst they continue to grow the team and introduce new technologies The role: You will be a front en…",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Forward Role"
+        },
+        "salary_min": 45000,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922501291?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=E3C8EF8C49B150BAFAD622E21FA5B750D3E62B31",
+        "salary_max": 45000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUwMTI5MSIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.mmIAItfQL9urBGySuCxBtAYvPHsLU-LrOi4M6eaDJ88",
+        "id": "2922501291",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK"
+            ],
+            "display_name": "UK"
+        }
+    },
+    {
+        "salary_min": 37908.28,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Metier Recruitment Limited"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -1.54912,
+        "category": {
+            "label": "IT Jobs",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Front End Developer - Leeds - Up to £50k  Benefits Thefront end Developerwill have the opportunity to work alongside C# Asp.Net backend developers who, as well as working in the latest frameworks & tech, have a depth of experience that is the envy of the industry. What will I do? As part of a major project you will develop a front end web user interface that will control real time communications and dashboards utilising signal/R. Develop, test & release NET CORE 5.0, ASP front end web user inte…",
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:14:12Z",
+        "latitude": 53.799599,
+        "salary_is_predicted": "1",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "West Yorkshire",
+                "Leeds"
+            ],
+            "display_name": "Leeds, West Yorkshire"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUxOTIyMiIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.QVYek-pBYnoEqNbn_jtSBEUlKD1wPQayylBFTCVGvOU",
+        "id": "2922519222",
+        "salary_max": 37908.28,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922519222?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=F301826923199E2B00706BF897128026212AFECC"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922505252?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=1AEA3C46CC53DAA31EFF5B6078011C66996CA286",
+        "location": {
+            "display_name": "Milton, Abingdon",
+            "area": [
+                "UK",
+                "South East England",
+                "Oxfordshire",
+                "Abingdon",
+                "Milton"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 27000,
+        "id": "2922505252",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTA1MjUyIn0.23rnjtXCyT1Y-5TXzNpYHiQrUG-2U-ydnopwSXk8IJU",
+        "created": "2022-02-24T10:13:04Z",
+        "title": "Front End Developer",
+        "salary_is_predicted": "0",
+        "latitude": 51.62168,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 27000,
+        "company": {
+            "display_name": "Niche Recruitment Ltd",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "description": "This Front-End Developer role is offering generous holiday, a personalised bonus scheme, staff discount and a range of other benefits in return for your efforts in a leading global technology companys design team. This hybrid role, with 1-2 days a week in the Didcot office, allows you to use your technical design skills to contribute to the important messages and values of the company. Our client is a figurehead in the technology industry, heralded as a company of the future from multiple prest…",
+        "longitude": -1.294572
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2935276318?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=2EC3DA9CBACDFA77EDC860E291CC9C0BDBFDE75C",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTM1Mjc2MzE4In0.wNcd4F0etzWUPHCVHxYrovI6Untw-MAT7MtITydZUMk",
+        "id": "2935276318",
+        "salary_max": 40000,
+        "location": {
+            "display_name": "Cheltenham, Gloucestershire",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South West England",
+                "Gloucestershire",
+                "Cheltenham"
+            ]
+        },
+        "latitude": 51.897999,
+        "salary_is_predicted": "0",
+        "title": "Front End Developer",
+        "created": "2022-03-01T10:06:36Z",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "longitude": -2.07131,
+        "description": "Remote Front End Developer - JavaScript - Angular - React.js - £40k - £75k Plus Benefits - 3 Years' experience We are looking for either a Mid or Senior Front End Developer to join a software House based in Cheltenham working on a remote basis. The company has a large portfolio of clients which is increasing their demands for projects to be completed. The ideal candidate will have 3 years' experience with either Angular or React. It is an exciting opportunity to work in a growing company and br…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Senitor Associates Limited"
+        },
+        "salary_min": 40000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "salary_min": 40000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Senitor Associates Limited"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT Jobs"
+        },
+        "description": " Fully Remote Front End Developer - JavaScript - React - Redux - HTML/CSS - £40k - £55k We are looking for talented Front End Developers of all levels to join a market leading technology company to develop new products and features as part of a new product team. The ideal candidate will have strong knowledge of JavaScript, React, and Redux. Reporting to the Development Manager, the successful candidate will be working on market leading software, developing new features and writing reusable, rel…",
+        "longitude": -2.35862,
+        "created": "2022-03-03T12:15:55Z",
+        "title": "Front End Developer",
+        "latitude": 51.3811,
+        "salary_is_predicted": "0",
+        "location": {
+            "display_name": "Bath, Bath & N E Somerset",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South West England",
+                "Bath & N E Somerset",
+                "Bath"
+            ]
+        },
+        "id": "2942697318",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjk0MjY5NzMxOCIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.5db-is6HpQk5HWcUAH17vJQ0VsD9kqLh4lnwh8tMji0",
+        "salary_max": 40000,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2942697318?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=29026E4983D083902AF22C1ECAAC7D15D6F0AB2A"
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2942697317?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=4CD30CC942077969CCE9F3E0508AA506997E8BF9",
+        "salary_max": 30000,
+        "id": "2942697317",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjk0MjY5NzMxNyIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.pKdtnbpve212weGOJMzoEk_2qMKwB9dys_X5UPIG_4c",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "Surrey",
+                "Guildford"
+            ],
+            "display_name": "Guildford, Surrey"
+        },
+        "salary_is_predicted": "0",
+        "title": "Front End Developer",
+        "created": "2022-03-03T12:15:55Z",
+        "description": "Front End Developer - React - JavaScript - Redux - GraphQL - £30K - £60K - FULLY REMOTE (meet up every 8 weeks - Guildford) We are looking for a Front End Developer to work for growing Asset Management software company focusing on creating UI web solutions for a new product, whilst assisting the Junior Developer with any queries. The ideal candidate will have experience React and JavaScript, with around 4-5 years' commercial experience. Reporting to the Head of Development, the successful candi…",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Senitor Associates Limited",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 30000
+    },
+    {
+        "id": "2922511545",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUxMTU0NSIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.yVNAnSK9KJQ7Z2xpctkRwuVXfhZxaP1WcYO0_nB78s8",
+        "salary_max": 50000,
+        "location": {
+            "display_name": "UK",
+            "area": [
+                "UK"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922511545?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=0FB4F797B78613A1DB9F0400984372FD8C08654C",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "description": "Front End Developer: Our public sector client is currently looking to hire Front End Developers over a range of seniority levels and a range of pay levels too, they would preferable want a candidate who have engineering experience with Javascript, Typescript, REST & SOAP API services, JSON and XML and exposure to Azure DevOps. Candidates DO NOT require SC Clearance to apply for the role of Front End Developer however, must be SC Clearance Eligible to be considered by the client (5 years in the …",
+        "salary_min": 50000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Berkeley Square IT Ltd"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "created": "2022-02-24T10:13:31Z",
+        "title": "Front End Developer"
+    },
+    {
+        "location": {
+            "display_name": "Aberdeen, Aberdeenshire",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Scotland",
+                "Aberdeenshire",
+                "Aberdeen"
+            ]
+        },
+        "salary_max": 55000,
+        "id": "2922500104",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTAwMTA0In0.uUUzET0fsVmsQngLv4NHzWUH7Y8MJg5G5blWPO4t5PU",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922500104?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=136951A044212E2345D4A287B1384C4D3393CBED",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 55000,
+        "company": {
+            "display_name": "Cathcart Associates",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "description": "A SaaS startup, that is a spin-out of a household name in Aberdeen, is looking for Front End Developers at mid and senior level to join the team. Having only officially been a business for just over a year now, they already have around 200 people and have big plans for growth over the next few years. The company operate within the Energy sector and already have an impressive clientele. They are using technology to change the industry and can offer you the opportunity to work on some super inter…",
+        "longitude": -2.0954,
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:12:44Z",
+        "salary_is_predicted": "0",
+        "latitude": 57.147499
+    },
+    {
+        "salary_is_predicted": "0",
+        "created": "2022-02-24T10:12:53Z",
+        "title": "Front End Developer",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "description": "Front End Developer Based in: Remote Our client is a gaming and gambling solution software provider and industry leader in USA, UK and Europe. Our partnership with global Gaming Companies has resulted in the development of cutting-edge technical platforms incorporating sportsbook, lottery, casino, virtual and financial trading. Our Vision is to shape the future of gaming and transforming experience from gaming operations into intelligent solutions that meet customer compliance expectation in th…",
+        "company": {
+            "display_name": "P2P Solutions Partnership Limited",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 60000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922502174?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=BCE1DFA99A4A11E8DFA01ECE037F28F1FB724919",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUwMjE3NCIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.GT8sE-nr0hyiJuR-UVn13mc_qP2Iqn78sWVMzLy4A1Q",
+        "id": "2922502174",
+        "salary_max": 60000,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "London"
+            ],
+            "display_name": "London, UK"
+        }
+    },
+    {
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922500248?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=A18DF05F1B83ED54B1D6FD40B92BE00EF242041C",
+        "id": "2922500248",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTAwMjQ4In0.RSl5NBvIEEq5BxXvp3zrdQA1_vAX4S_Db9TecPtu9Qk",
+        "salary_max": 50000,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "North West England",
+                "Greater Manchester",
+                "Manchester"
+            ],
+            "display_name": "Manchester, Greater Manchester"
+        },
+        "salary_is_predicted": "0",
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:12:44Z",
+        "description": ". Front End Developer 40-50k Chroma are recruiting for a Front End Developer to join one of Europes leading E-Commerce businesses on a permanent basis. They are a growing business with 13 subsidiaries worldwide and a turn over of £350 million a year. This role is hybrid working with most of the team going to the office twice a week. This is a new role to join a development team of 30 and day to day you will youll be responsible for defining, building and implementing the customer experience of …",
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "company": {
+            "display_name": "Chroma Recruitment Ltd",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 50000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "title": "Front-End Developer",
+        "created": "2022-02-24T10:13:51Z",
+        "latitude": 53.799599,
+        "salary_is_predicted": "0",
+        "salary_min": 45000,
+        "company": {
+            "display_name": "Erin Associates",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT Jobs"
+        },
+        "longitude": -1.54912,
+        "description": "Front-End Developer Remote Up to £45k  up to 20% bonus  Benefits This multi-national digital company are looking to add a Front-End Developer to their Software delivery team. They are operating a fully remote working model and plan to do this permanently moving forward, but their head office is in Yorkshire should you wish to go in at all. The Frontend Developer will have extensive experience in the developing both web and mobile applications. You will be joining a face paced environment and wi…",
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922514580?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=24107173D9A64A8B586531AC300B9A1350EB6E91",
+        "location": {
+            "display_name": "Leeds, West Yorkshire",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "West Yorkshire",
+                "Leeds"
+            ]
+        },
+        "id": "2922514580",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTE0NTgwIn0.t-fp_O5YKF7brTwwT7RMN5h0Q4y78LEikrCL4kHCvW8",
+        "salary_max": 45000
+    },
+    {
+        "longitude": -1.290723,
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "description": "We are looking for talented Front-End Web Developers/Designer (HTML, CSS, JavaScript, SASS) Are you a Web Developer/Web Designer that is looking for an amazing opportunity within a company that works with global clients, has a supportive team and great benefits included? This Nottingham based company are looking for a Web Developer/Designer to join their interactive and fun team. You will be working alongside the UX/UI creative team to create well-coded and efficient web sites for well-known br…",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 25000,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Colossus Associates Limited"
+        },
+        "latitude": 53.052875,
+        "salary_is_predicted": "0",
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:13:09Z",
+        "salary_max": 25000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoianViYVFvNmI3Qkc3OS1GdVBnVzlzQSIsImkiOiIyOTIyNTA2MzQ5In0.UGjuaYeFgn9Poqz2CYpIElkDmLyjqNaxhLVwrD-djlQ",
+        "id": "2922506349",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Nottinghamshire",
+                "Nottingham",
+                "Underwood"
+            ],
+            "display_name": "Underwood, Nottingham"
+        },
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922506349?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=7DE0C04099FDDE1F8F8F62630CD0069E894B49EE"
+    },
+    {
+        "location": {
+            "display_name": "Leeds, West Yorkshire",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "West Yorkshire",
+                "Leeds"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "2922509702",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkyMjUwOTcwMiIsInMiOiJqdWJhUW82YjdCRzc5LUZ1UGdXOXNBIn0.qOencq4mMTfLOQw2R1ogwLRx8kPC_zKpReA5wSsIQoQ",
+        "salary_max": 55000,
+        "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/2922509702?se=jubaQo6b7BG79-FuPgW9sA&utm_medium=api&utm_source=e66d737b&v=34DDFC14D9C0F0357625CBFC649B959D4BE87A19",
+        "salary_min": 55000,
+        "company": {
+            "display_name": "Sanderson Recruitment",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -1.54912,
+        "category": {
+            "label": "IT Jobs",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs"
+        },
+        "description": "Front End Developer Up to 50K Leeds, UK Wanting to expand your career as a developer? Join a team who are looking for a Front-End Developer to be responsible for working within a team of developers, testers, and business analysts, entrusted to delivery business value through software innovations across multiple platforms. Responsibilities: To deliver and demonstrate fair customer outcomes to all HCUK customer. Work to and adhere to corporate governance regimes and processes and work instruction…",
+        "title": "Front End Developer",
+        "created": "2022-02-24T10:13:23Z",
+        "latitude": 53.799599,
+        "salary_is_predicted": "0"
+    }
+]
