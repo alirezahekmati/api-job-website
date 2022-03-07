@@ -39,10 +39,21 @@ function basicSearch(){
     apiData()
 }
 document.querySelector(".navbar input").addEventListener("change",basicSearch)
-
+// next page and previus page  event function
+function next(){
+    page++
+    apiData()
+}
+function prev(){
+    if(page >1){
+        page--
+        apiData()
+    }
+    
+}
 // job api 
 async function apiData(){
-    const respone = await fetch(`https://api.adzuna.com/v1/api/jobs/${where}/search/1?app_id=${id}&app_key=${key}&what=${what}&results_per_page=${perPage}`)
+    const respone = await fetch(`https://api.adzuna.com/v1/api/jobs/${where}/search/${page}?app_id=${id}&app_key=${key}&what=${what}&results_per_page=${perPage}`)
     const data =await respone.json()
     jobString = data.results.map(each => {
         return `
@@ -56,26 +67,13 @@ async function apiData(){
             <a href="${each.redirect_url}"  target="_blank">click here for appy</a>
         </div>
         `       
-    })
+    }).join("")
     document.body.innerHTML= `
     <div class="container">
-        <div>
-            <p>choose the contry</p>
-            <div class="british">
-                <input  class="british" type="radio" id="contactChoice1"
-                name="contact" value="email"  >
-                <label for="contactChoice1"  class="british">british</label>
-            </div>
-            <div class="usa">
-                <input  class="usa" type="radio" id="contactChoice2"
-                name="contact" value="phone">
-                <label for="contactChoice2"  class="usa" >usa</label>
-            </div>
-            <div class="france">
-                <input  class="france" type="radio" id="contactChoice3"
-                name="contact" value="mail">
-                <label   class="france"  label for="contactChoice3">france</label>
-            </div>            
+        <div class="pages">
+            <button class="prev" onclick="prev()">previus</button>
+            <span>${page}</span>
+            <button class="next" onclick="next()">next</button>
         </div>       
         <div class="jobs">
             ${jobString}
