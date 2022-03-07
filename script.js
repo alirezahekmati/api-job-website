@@ -6,8 +6,8 @@ let perPage = 50
 let jobString = ""
 let which =1
 let page =1
+//start animation
 function start(){
-
     document.querySelector(".hero h1").style.animation="forwards startAnimation 2s linear"
 }
 function end(){
@@ -16,10 +16,34 @@ function end(){
 }
 setTimeout(end,2500)
 start()
+
+
+// ip api 
+async function ipApi(){
+    
+    const respone = await fetch('http://www.geoplugin.net/json.gp')
+    const data = await respone.json()
+    
+    const avalibleCountryCode =["gb","at","au","br","ca","de","fr","in","it","nl","nz","pl","ru","sg","us","za"]
+    avalibleCountryCode.forEach(e =>{
+        if(e.includes(data?.geoplugin_countryCode.toLowerCase())){
+            where = e
+        }
+    })
+
+    
+}
+ipApi()
+function basicSearch(){
+    what = document.querySelector(".navbar input").value
+    apiData()
+}
+document.querySelector(".navbar input").addEventListener("change",basicSearch)
+
+// job api 
 async function apiData(){
     const respone = await fetch(`https://api.adzuna.com/v1/api/jobs/${where}/search/1?app_id=${id}&app_key=${key}&what=${what}&results_per_page=${perPage}`)
     const data =await respone.json()
-    console.log(data.results)
     jobString = data.results.map(each => {
         return `
         <div class="job">
@@ -61,108 +85,86 @@ async function apiData(){
     document.getElementById(`contactChoice${which}`).checked= true
 }
 document.querySelectorAll("input[name='contact']").forEach(each => {
-    console.log(each.value)
 })
 function  clicker(e){
-    // console.log( e.target.classList[0].includes("british"))
-    if( e.target.classList[0].includes("UnitedKingdomofGreatBritain")) {
-        // console.log("br")
+    if( e.target.classList[0]?.includes("UnitedKingdomofGreatBritain")) {
         where = "gb"
         which =1
-        apiData()
-        
-        
     } 
-    if( e.target.classList[0].includes("Singapore")){
-        // console.log("us")
+    if( e.target.classList[0]?.includes("Singapore")){
         where = "sg"
         which =2
-        apiData()
-        
     }
-    if( e.target.classList[0].includes("SouthAfrica")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("SouthAfrica")){
         where = "za"
         which =3
-        apiData()
     }
-    if( e.target.classList[0].includes("Russian")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("Russian")){
         where = "ru"
         which =4
-        apiData()
     }
-    if( e.target.classList[0].includes("Poland")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("Poland")){
         where = "pl"
         which =5
-        apiData()
     }
-    if( e.target.classList[0].includes("NewZealand")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("NewZealand")){
         where = "nz"
         which =6
-        apiData()
     }
-    if( e.target.classList[0].includes("Netherlands")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("Netherlands")){
         where = "nl"
         which =7
-        apiData()
     }
-    if( e.target.classList[0].includes("Italy")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("Italy")){
         where = "it"
         which =8
-        apiData()
     }
-    if( e.target.classList[0].includes("India")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("India")){
         where = "in"
         which =9
-        apiData()
     }
-    if( e.target.classList[0].includes("Germany")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("Germany")){
         where = "de"
         which =10
-        apiData()
     }
-    if( e.target.classList[0].includes("Canada")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("Canada")){
         where = "ca"
         which =11
-        apiData()
     }
-    if( e.target.classList[0].includes("Australia")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("Australia")){
         where = "au"
         which =12
-        apiData()
     }
-    if( e.target.classList[0].includes("Austria")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("Austria")){
         where = "at"
         which =13
-        apiData()
     }
-    if( e.target.classList[0].includes("UnitedStatesofAmerica")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("UnitedStatesofAmerica")){
         where = "us"
         which =14
-        apiData()
     }
-    if( e.target.classList[0].includes("France")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("France")){
         where = "fr"
         which =15
-        apiData()
     }
-    if( e.target.classList[0].includes("Brazil")){
-        // console.log("fr")
+    if( e.target.classList[0]?.includes("Brazil")){
         where = "br"
         which =16
-        apiData()
     }
 }
 document.addEventListener("mousedown",clicker)
+
+// text input
+function log(){
+    what = document.querySelector(".jobsearch input").value
+    if(what){
+        apiData()
+    }
+    
+    
+}
+function exsist(){
+document.querySelector(".jobsearch input").addEventListener("change",log)
+document.querySelector(".jobsearch button").addEventListener("click",log)
+}
+document.querySelector(".jobsearch").addEventListener("mouseover",exsist)

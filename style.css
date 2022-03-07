@@ -334,6 +334,14 @@ img{
     cursor: pointer;
     background-color: hsla(240, 60%, 65%,1);
     font-weight: 900;
+    transition: transform 200ms;
+}
+.jobsearch button:hover,
+.jobsearch button:focus{
+    /* background-color: transparent; */
+    border: 1px solid hsla(240, 60%, 65%,1);
+    color: white;
+    transform: scale(1.1);
 }
 .pages{
     margin-top: 3em;
