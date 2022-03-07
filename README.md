@@ -18,8 +18,14 @@ the website has 2 types of search :
  2. advance search
 in basic search, it's going to use your IP address and  show local job 
 while in advance you can choose the country manually.
-[<img  alt="website picture" src="./basicSearch.PNG" style="padding:10px;" />]
-[<img  alt="website picture" src="./advanceSearch.PNG" style="padding:10px;" />]
+<br>
+<br>
+basic search:
+<img  alt="website picture" src="./basicSearch.PNG" style="padding:10px;" />
+<br>
+<br>
+advance search:
+<img  alt="website picture" src="./advanceSearch.PNG" style="padding:10px;" />
 
 
 
