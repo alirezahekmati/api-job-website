@@ -14,18 +14,19 @@
 
 ### more in-depth:
 the website has 2 types of search :
- 1. basic search 
- 2. advance search
-in basic search, it's going to use your IP address and  show local job 
-while in advance you can choose the country manually.
+ 1. basic search   -> it's going to use your IP address and  show local job.
+ 2. advance search -> you can choose the country manually.
+
 <br>
 <br>
 basic search:
-<img  alt="website picture" src="./basicSearch.PNG" style="padding:10px;" />
+<br>
+<img  alt="website picture" src="img/basicSearch.PNG" style="padding:10px;" />
 <br>
 <br>
 advance search:
-<img  alt="website picture" src="./advanceSearch.PNG" style="padding:10px;" />
+<br>
+<img  alt="website picture" src="img/advanceSearch.PNG" style="padding:10px;" />
 
 - v1: basic functionality and main concept added.
 - v2: improved UI/UX. 
