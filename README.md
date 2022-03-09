@@ -27,6 +27,9 @@ basic search:
 advance search:
 <img  alt="website picture" src="./advanceSearch.PNG" style="padding:10px;" />
 
+- v1: basic functionality and main concept added.
+- v2: improved UI/UX. 
+
 
 
 
