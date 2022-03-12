@@ -19,22 +19,22 @@ start()
 
 
 // ip api 
-async function ipApi() {
+// async function ipApi() {
 
-    const respone = await fetch('http://www.geoplugin.net/json.gp')
-    const data = await respone.json()
+//     const respone = await fetch('http://www.geoplugin.net/json.gp')
+//     const data = await respone.json()
 
-    const avalibleCountryCode = ["gb", "at", "au", "br", "ca", "de", "fr", "in", "it", "nl", "nz", "pl", "ru", "sg", "us", "za"]
-    avalibleCountryCode.forEach(e => {
-        if (e.includes(data?.geoplugin_countryCode.toLowerCase())) {
-            where = e
-        }
-    })
+//     const avalibleCountryCode = ["gb", "at", "au", "br", "ca", "de", "fr", "in", "it", "nl", "nz", "pl", "ru", "sg", "us", "za"]
+//     avalibleCountryCode.forEach(e => {
+//         if (e.includes(data?.geoplugin_countryCode.toLowerCase())) {
+//             where = e
+//         }
+//     })
 
 
-}
+// }
 
-ipApi()
+// ipApi()
 
 function basicSearch() {
     what = document.querySelector(".navbar input").value
