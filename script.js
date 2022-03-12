@@ -110,7 +110,7 @@ function bookmarkPageBtn() {
 bookmarkPageBtn()
 // job api 
 async function apiData() {
-    console.log("i started")
+    
     document.querySelector(".searchUx").classList.add("inSearch")
     const respone = await fetch(`https://api.adzuna.com/v1/api/jobs/${where}/search/${page}?app_id=${id}&app_key=${key}&what=${what}&results_per_page=${perPage}`)
     const data = await respone.json()
@@ -139,7 +139,7 @@ async function apiData() {
     document.querySelector(".jobs").innerHTML = jobString
     document.getElementById(`contactChoice${which}`).checked = true
 
-    console.log("i ended 2")
+    document.querySelector(".jobs").scrollIntoView();
     document.querySelector(".searchUx").classList.remove("inSearch")
 }
 document.querySelectorAll("input[name='contact']").forEach(each => {
