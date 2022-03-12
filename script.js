@@ -115,7 +115,19 @@ async function apiData() {
     const respone = await fetch(`https://api.adzuna.com/v1/api/jobs/${where}/search/${page}?app_id=${id}&app_key=${key}&what=${what}&results_per_page=${perPage}`)
     const data = await respone.json()
     
+
     jobString = data.results.map(each => {
+        console.log(each)
+        var map = L.map('map').setView([each.latitude, each.longitude], 13);
+
+        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+            maxZoom: 18,
+            id: 'mapbox/streets-v11',
+            tileSize: 512,
+            zoomOffset: -1,
+            accessToken: 'pk.eyJ1IjoiYWxpcmV6YWhla21hdGkiLCJhIjoiY2wwbm96ZzVqMWdtczNjdW92NXZlemRiOCJ9.xKDc2NCLT3wyMfYSFYb9xA'
+        }).addTo(map);
         return `
         <div class="job">
             <h2>${each.title}</h2>
@@ -126,6 +138,7 @@ async function apiData() {
             <p>description:${each.description} at :  ${each.location.area[0]}</p>
             <button onclick= "jobSaver(event)">Save</button>
             <a href="${each.redirect_url}"  target="_blank">click here for appy</a>
+            
         </div>
         `
     }).join("")
@@ -271,6 +284,13 @@ document.querySelector(".light").addEventListener("click", lightToggle)
 document.querySelector(".volume").addEventListener("input", volumeChanger)
 
 
+
+// async function locationIP(){
+//     const respone  = await fetch(`https://geo.ipify.org/api/v2/country?apiKey=at_0JkaqkqkiPvQjoT1owk3cgGlTB7km`)
+//     const data = await respone.json()
+//     console.log(data)
+// }
+// locationIP()
 
 
 
