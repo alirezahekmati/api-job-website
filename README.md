@@ -30,6 +30,7 @@ advance search:
 
 - v1: basic functionality and main concept added.
 - v2: improved UI/UX. 
+- v3: added bookmark with localstorage improved UX and BUG fixes
 
 
 
