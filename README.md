@@ -12,6 +12,8 @@
 - adzona: [adzona]
 - geoplugin: [geoplugin]
 
+<video src="Job-EasY-😏-2.webm" controls></video>
+
 ### more in-depth:
 the website has 2 types of search :
  1. basic search   -> it's going to use your IP address and  show local job.

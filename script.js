@@ -17,7 +17,31 @@ function end() {
 setTimeout(end, 2500)
 start()
 
+async function locationIP1(){
+    const respone  = await fetch(`https://geo.ipify.org/api/v2/country?apiKey=at_0JkaqkqkiPvQjoT1owk3cgGlTB7km`)
+    const data = await respone.json()
+    console.log("data-1 :", {data})
+    const avalibleCountryCode = ["gb", "at", "au", "br", "ca", "de", "fr", "in", "it", "nl", "nz", "pl", "ru", "sg", "us", "za"]
+    avalibleCountryCode.forEach(e => {
+        if (e.includes(data?.location.country.toLowerCase())) {
+            where = e
+        }
+    })
+   
 
+}
+locationIP1()
+// async function locationIP2(){
+
+//     const respone  = await fetch(`http://api.positionstack.com/v1/reverse 
+//     ?access_key=e04d73a9d07474ca70dcc0c96394caf1&query=40.7638435,-73.9729691`)
+//     const data = await respone.json()
+    
+//     console.log("data-2 :", {data})
+   
+
+// }
+// locationIP2()
 // ip api 
 // async function ipApi() {
 
@@ -88,19 +112,26 @@ function showBookmark() {
     localStorage.setItem("jobArray", savedJobs.map(each => each.outerHTML).join("") + localStorage.getItem("jobArray"))
     savedJobs  =[]
     document.querySelector(".jobs").innerHTML = localStorage.getItem("jobArray") == 'null' ? "" : localStorage.getItem("jobArray")
-    document.querySelectorAll(".jobs button").forEach(e => e.textContent = "remove")
+    document.querySelectorAll(".jobs .btn-save").forEach(e => e.textContent = "remove")
     isInBookmark = true
 
 
 }
 
 function bookmarkPageBtn() {
-    if (savedJobs.length|| !(localStorage.getItem("jobArray")== 'null')) {
+    console.log(localStorage.getItem("jobArray")== 'null')
+    if (savedJobs.length|| (localStorage.getItem("jobArray")&& !(localStorage.getItem("jobArray")== 'null'))) {
         document.querySelector(".to-up-2").innerHTML = `
         <button onclick="showBookmark()">show bookmark</button>
         
         `
-    } else {
+    } else if ( localStorage.getItem("jobArray")== 'null'){
+        document.querySelector(".to-up-2").innerHTML = `
+        
+        `
+    }
+    
+    else {
         document.querySelector(".to-up-2").innerHTML = `
         
         `
@@ -108,18 +139,12 @@ function bookmarkPageBtn() {
 
 }
 bookmarkPageBtn()
-// job api 
-async function apiData() {
-    
-    document.querySelector(".searchUx").classList.add("inSearch")
-    const respone = await fetch(`https://api.adzuna.com/v1/api/jobs/${where}/search/${page}?app_id=${id}&app_key=${key}&what=${what}&results_per_page=${perPage}`)
-    const data = await respone.json()
-    
-
-    jobString = data.results.map(each => {
-        console.log(each)
-        var map = L.map('map').setView([each.latitude, each.longitude], 13);
-
+// map api
+function findGeo(lat=51.5,long=-0.09){
+    console.log(lat,long)
+    document.getElementById('mapfather').innerHTML = "<div id='map'></div>"
+    var map = L.map('map').setView([lat, long], 13)
+    var marker = L.marker([lat, long]).addTo(map)
         L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
             attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
             maxZoom: 18,
@@ -128,6 +153,21 @@ async function apiData() {
             zoomOffset: -1,
             accessToken: 'pk.eyJ1IjoiYWxpcmV6YWhla21hdGkiLCJhIjoiY2wwbm96ZzVqMWdtczNjdW92NXZlemRiOCJ9.xKDc2NCLT3wyMfYSFYb9xA'
         }).addTo(map);
+        console.log(map)
+}
+
+
+// job api 
+async function apiData() {
+    
+    document.querySelector(".searchUx").classList.add("inSearch")
+    const respone = await fetch(`https://api.adzuna.com/v1/api/jobs/${where}/search/${page}?app_id=${id}&app_key=${key}&what=${what}&results_per_page=${perPage}`)
+    const data = await respone.json()
+    console.log(data)
+
+    jobString = data.results.map(each => {
+        
+        
         return `
         <div class="job">
             <h2>${each.title}</h2>
@@ -136,7 +176,8 @@ async function apiData() {
             <p>contract_time:${each.contract_time ?? "not mentioned"}</p>
             <p>contract_type :${each.contract_type ?? "not mentioned"}</p>
             <p>description:${each.description} at :  ${each.location.area[0]}</p>
-            <button onclick= "jobSaver(event)">Save</button>
+            <button onclick= "jobSaver(event)" class="btn-save">Save</button>
+            <button onclick="findGeo(${each.latitude} ,${each.longitude})">Show in map</button>
             <a href="${each.redirect_url}"  target="_blank">click here for appy</a>
             
         </div>
@@ -255,7 +296,7 @@ function playSou() {
 let isDark = false
 function lightToggle() {
     if (!isDark) {
-        document.body.style.backgroundImage = ` url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox='0 0 52 26' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%238b819c' fill-opacity='0.57'%3E%3Cpath d='M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E"), linear-gradient(to right , #171718,  #1b0d18)
+        document.body.style.backgroundImage = ` url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox='0 0 52 26' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%238b819c' fill-opacity='0.05'%3E%3Cpath d='M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E"), linear-gradient(to right , #171718,  #1b0d18)
     `
         document.body.style.color = "hsla(0,0%,100%,.6)"
         document.querySelector(".hero").style.filter = "brightness(0.7)"
@@ -285,12 +326,7 @@ document.querySelector(".volume").addEventListener("input", volumeChanger)
 
 
 
-// async function locationIP(){
-//     const respone  = await fetch(`https://geo.ipify.org/api/v2/country?apiKey=at_0JkaqkqkiPvQjoT1owk3cgGlTB7km`)
-//     const data = await respone.json()
-//     console.log(data)
-// }
-// locationIP()
+
 
 
 
